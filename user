@@ -1,0 +1,2 @@
+$ git config --global user.name "Mikel Alegre"
+$ git config --global user.email mial596@vidalibarraquer.net
