@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Raleway:wght@600&family=Roboto:wght@700&display=swap');
+h1{
+color: blueviolet;
+font-family: 'Raleway', sans-serif;
+}
+
+/* Aplica la fuente Fredoka One por defecto */
+
+*{
+font-family: Freadoka One;
+
+}
+
+/* Diseño del div */
+
+div{
+    width: 45%;
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+/* Aplica Montserrat i sans-serif al p */
+
+p{
+color: rgb(34, 2, 65);
+text-align: justify;
+font-family: 'Montserrat', sans-serif;
+}
+
+/* Usa fondo bisque en div1 */
+
+.div1{
+    background-color: bisque;
+}
+
+/* Usa fondo cadetblue en div2 */
+
+.div2{
+    background-color: cadetblue;
+}
